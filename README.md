@@ -18,3 +18,5 @@
 * The player prefab contained some player animations and scripts to enable player movement and melee. These tools were used to manage player movement
 
 --> This game development journey has laid a solid foundation for future study and improvement. By incorporating player feedback, expanding game content, and exploring advanced AI techniques, the game will be further enhanced to provide more engaging and memorable experiences for players.
+
+Unity 2021.3.26f1
